@@ -1,0 +1,6 @@
+[submodule "service"]
+	path = service
+	url = git@github.com:mamamiyear/if.u.service.git
+[submodule "clients/web"]
+	path = clients/web
+	url = git@github.com:mamamiyear/if.u.clients.web.git
